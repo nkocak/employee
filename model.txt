@@ -1,0 +1,4 @@
+employee
+id: string
+name: string
+surname: string
